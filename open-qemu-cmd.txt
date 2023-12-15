@@ -1,0 +1,5 @@
+----------| How open a qemu cmd ? |----------
+
+For open a qemu cmd, we need to install qemu (.exe on repo or in {lien})
+Go in qemu folder (after download) and open a cmd in this file.
+It's ok, you have your qemu cmd !

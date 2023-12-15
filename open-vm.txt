@@ -1,0 +1,7 @@
+----------| Open Your VM |----------
+
+After create your vm, you doo put on cmd :
+qemu-system-x86_64 -m <ramquantity>M -smp <numberofcore> -hda nameoffile.qcow2 -cdrom pathtoiso.iso
+And entry
+
+You have now open your qemu vm !

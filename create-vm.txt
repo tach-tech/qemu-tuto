@@ -1,0 +1,8 @@
+----------| Create and configurate your vm |----------
+
+For create your vm, we need a qemu cmd.
+Put on cmd : 
+qemu-img create -f qcow2 nameoffile.qcow2 <stockage>G
+And entry
+
+Great, you have create your vm !  

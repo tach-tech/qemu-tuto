@@ -1,0 +1,4 @@
+----------| Delete vm |----------
+
+If you want delete your vm, you can go to qemu folder and delete your file vm : 
+nameofvm.qcow2

@@ -1,0 +1,1 @@
+qemu-system-x86_64 -m <quantitéderam>M -smp <nb de coeurs> -hda lenomdufichier.qcow2 -cdrom lecheminverstoniso.iso
